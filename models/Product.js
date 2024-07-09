@@ -22,7 +22,7 @@ Product.init(
       allowNull: false,
     },
     price:{
-      isNumeric: true,
+      type: DataTypes.DECIMAL,
       allowNull: false,
       validate: {
         isDecimal: true,
