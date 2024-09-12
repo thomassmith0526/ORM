@@ -7,7 +7,6 @@ thomassmith0526
 * [License](#License)
 * [Video-Link](#Video-Link)
 * [Screen-Shots](#Screen-Shots)
-* [Render](#Render)
 ## Email
 thomassmith0526@gamil.com
 ## Description
@@ -20,7 +19,5 @@ https://www.youtube.com/watch?v=p_5shH64wYg
 ![Alt Text](./images/13%20server.js.png)
 ![Alt Text](./images/models.js.png)
 ![Alt Text](./images/routes.js.png)
-## Render Link
-
 ## Question 
 If you have any questions please fill free to email me at thomassmith0526@gmail.com
